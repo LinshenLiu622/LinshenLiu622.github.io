@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
-I work closely with Prof. [Zhangyang "Atlas" Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/) at UT Austin and Prof. [Jiaqi Gu](http://www.jqgu.net/) at ASU.
+I am currently a Ph.D. student in the Department of Department of Civil and Systems Engineering, [Johns Hopkins University](https://www.jhu.edu/), under the supervision of Prof. [Hao (Frank) Yang](https://www.haofrankyang.net/). I recieved [Joseph Meyerhoff Fellowship](/https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/) (https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/) (Awarded to one of the top first-year PhD
+students in Johns Hopkins University Department of Civil and Systems Engineering （Systems Track）) 
 
-Previously, I received the B.Eng. degree in microelectronics science and engineering from [Shanghai Jiaotong University](https://en.sjtu.edu.cn/) with highest honor, in 2020.
+Previously, I received the B.Eng. degree in Microelectronics Science and Engineering from [South China University of Technology](https://www.scut.edu.cn/en/), in 2023, and M. Sci. degree in Electrical and Computer Engineering.
 
-My current research interests primarily center on efficient AI computing, from emerging AI systems to hardware-aware/system-aware AI algorithms.
-* Hardware-Software Co-Design for Emerging AI Hardware and Computing Systems.
-* Efficient Training and Inference Techniques for Vision Models and Large-Scale Foundation Models.
+My current research interests primarily focuses on two key areas:
 
-<div align=center>
+* Sustainability of large language models:
+1) Energy- and carbon-aware AI infrastructure and deployment strategies.
+2) Cost-aware modeling, scheduling, and deployment of large language models.
+*  Edge AI computation systems:
+1) Optimal multi-model and expert ensemble systems for resource-constrained environments.
+2) Accuracy–efficiency co-optimization under latency, energy, and hardware constraints.
+3) End-to-end algorithm–hardware co-design across the full edge AI stack.
+
+<!-- <div align=center>
 <img src="../images/justforfun_2.gif" height="500" width="500" />
-</div>
+</div> -->
