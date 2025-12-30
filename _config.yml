@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Hanqing Zhu"
-description              : &description "PhD Student at UT Austin"
-url                      : https://zhuhanqing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Linshen Liu"
+description              : &description "PhD Student at Johns Hopkins University"
+url                      : https://LinshenLiu622.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuhanqing.github.io"
+repository               : "LinshenLiu62.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanqing Zhu"
+  name             : "Linshen Liu"
   avatar           : "fubao_head.jpg" #"keaimaomitouxiang_xiao.jpg" #"keaimaomi3.jpg" #"ZHQ-crop.jpg"
-  bio              : "PhD student @ UT Austin"
-  location         : "Austin, Texas"
+  bio              : "PhD student @ Johns Hopkins University"
+  location         : "Baltimore, Maryland"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=myMcrNEAAAAJ"
