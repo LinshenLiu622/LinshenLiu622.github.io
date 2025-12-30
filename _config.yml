@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Linshen Liu"
-  avatar           : "fubao_head.jpg" #"keaimaomitouxiang_xiao.jpg" #"keaimaomi3.jpg" #"ZHQ-crop.jpg"
+  avatar           : "Photo1_Linshen_photo.jpg" #"keaimaomitouxiang_xiao.jpg" #"keaimaomi3.jpg" #"ZHQ-crop.jpg"
   bio              : "PhD student @ Johns Hopkins University"
   location         : "Baltimore, Maryland"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LinshenLiu622"
+  github           : "https://github.com/LinshenLiu622"
   google_plus      :
   keybase          :
   instagram        :
